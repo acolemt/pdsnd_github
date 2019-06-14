@@ -266,7 +266,7 @@ def display_rawdata(dict_data):
             Data as a dictionary 
         
         Used a dicitonary so we can print the column values with each row.
-        used pprint to better format the output
+        used pprint to display data in a user friendly way
     """
 
     continue_rawdata = 'yes'
